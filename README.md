@@ -1,7 +1,7 @@
 # Neural-Nets
 Deep Learning and Neural Nets in TensorFlow/Python
 
-## Assignment 1 (10/10)
+## Assignment 1
 Training on the MNIST Dataset with different types of neural networks
  * Single layer
  * Double Layer
