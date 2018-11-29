@@ -1,4 +1,4 @@
-# Neural-Nets
+# Neural Networks and Deep Learning
 Deep Learning and Neural Nets in TensorFlow/Python
 
 ## Assignment 1
