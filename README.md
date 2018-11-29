@@ -1,13 +1,11 @@
 # Neural-Nets
 Deep Learning and Neural Nets in TensorFlow/Python
 
-
-## Assignment 1
+## Assignment 1 (10/10)
 Training on the MNIST Dataset with different types of neural networks
  * Single layer
  * Double Layer
  * CNN
-
 
 ## Assignment 2 - Recurrent Networks
 IMDB Sentiment Analysis with Glove Embeddings
