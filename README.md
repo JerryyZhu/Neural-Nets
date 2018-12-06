@@ -1,4 +1,4 @@
-# Neural Networks and Deep Learning
+# Neural Networks and Deep Learning - COMP9444
 Deep Learning and Neural Nets in TensorFlow/Python
 
 ## Assignment 1
